@@ -64,7 +64,7 @@ sticker:
 ## selenium 스크래핑 적용 후 문제점
 - ### [[BookNumber selenium]] - py코드
 - #### 800번대 등록번호 약 30000개의 문서 중 100개만 스크래핑을 해보았다.
-![[first.png|left]]
+<img src="images/first.png" />
 
 <br/>
 
